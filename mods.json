@@ -2,169 +2,163 @@
   "mods": [
     {
       "name": "animania-1.12.2-base-2.0.2.26.jar",
-      "downloadURL": "https://dogelauncher.great-site.net/mods/animania-1.12.2-base-2.0.2.26.jar",
+      "downloadURL": "https://zimothali.github.io/mods/animania-1.12.2-base-2.0.2.26.jar",
       "sha1": "454792a1b0c6170fd1dc2b1aa1d2539c2fdfac08",
       "size": 1619895
     },
     {
       "name": "animania-1.12.2-extra-1.0.1.jar",
-      "downloadURL": "https://dogelauncher.great-site.net/mods/animania-1.12.2-extra-1.0.1.jar",
+      "downloadURL": "https://zimothali.github.io/mods/animania-1.12.2-extra-1.0.1.jar",
       "sha1": "cf17fe682e740d59d703827fe7ff2dd81a4879c3",
       "size": 1924546
     },
     {
       "name": "animania-1.12.2-farm-1.0.1.jar",
-      "downloadURL": "https://dogelauncher.great-site.net/mods/animania-1.12.2-farm-1.0.1.jar",
+      "downloadURL": "https://zimothali.github.io/mods/animania-1.12.2-farm-1.0.1.jar",
       "sha1": "6d89dcc6c91968ac408ddd214f04f3240f5a2ce8",
       "size": 5528848
     },
     {
       "name": "backpacked-1.3.0-1.12.2.jar",
-      "downloadURL": "https://dogelauncher.great-site.net/mods/backpacked-1.3.0-1.12.2.jar",
+      "downloadURL": "https://zimothali.github.io/mods/backpacked-1.3.0-1.12.2.jar",
       "sha1": "cc76e197acc790ac48ad4db42bb2eb976eecacc9",
       "size": 58426
     },
     {
       "name": "BetterFps-1.4.8.jar",
-      "downloadURL": "https://dogelauncher.great-site.net/mods/BetterFps-1.4.8.jar",
+      "downloadURL": "https://zimothali.github.io/mods/BetterFps-1.4.8.jar",
       "sha1": "245235d5c67daff00ee658ee1f88ae8c3e4584b8",
       "size": 155196
     },
     {
       "name": "BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar",
-      "downloadURL": "https://dogelauncher.great-site.net/mods/BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar",
+      "downloadURL": "https://zimothali.github.io/mods/BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar",
       "sha1": "6f281febea0746d2229f692cb719bd017ec70b32",
       "size": 4702147
     },
     {
       "name": "CarryOn+MC1.12.2+v1.12.3.jar",
-      "downloadURL": "https://dogelauncher.great-site.net/mods/CarryOn+MC1.12.2+v1.12.3.jar",
+      "downloadURL": "https://zimothali.github.io/mods/CarryOn+MC1.12.2+v1.12.3.jar",
       "sha1": "7b299c131d0ace1fff960946ad129eaf8f3d92a8",
       "size": 317135
     },
     {
       "name": "ElevatorMod-1.12.2-1.3.14.jar",
-      "downloadURL": "https://dogelauncher.great-site.net/mods/ElevatorMod-1.12.2-1.3.14.jar",
+      "downloadURL": "https://zimothali.github.io/mods/ElevatorMod-1.12.2-1.3.14.jar",
       "sha1": "7701eb987d8102a345e46725f4f2c6b9fc83005c",
       "size": 108444
     },
     {
       "name": "EndReborn+[0.3.9].jar",
-      "downloadURL": "https://dogelauncher.great-site.net/mods/EndReborn+[0.3.9].jar",
+      "downloadURL": "https://zimothali.github.io/mods/EndReborn+[0.3.9].jar",
       "sha1": "a76274d43658c7acee62e89f979ff22929ab4b6e",
       "size": 1905722
     },
     {
       "name": "EpicFightMod-1.12.2-1.1.0.jar",
-      "downloadURL": "https://dogelauncher.great-site.net/mods/EpicFightMod-1.12.2-1.1.0.jar",
+      "downloadURL": "https://zimothali.github.io/mods/EpicFightMod-1.12.2-1.1.0.jar",
       "sha1": "630ae19a92155160b8216b03fe6c7147a2b86031",
       "size": 1465490
     },
     {
       "name": "Extended+ItemsOres+[1.12.2]+(release+1.5).jar",
-      "downloadURL": "https://dogelauncher.great-site.net/mods/Extended+ItemsOres+[1.12.2]+(release+1.5).jar",
+      "downloadURL": "https://zimothali.github.io/mods/Extended+ItemsOres+[1.12.2]+(release+1.5).jar",
       "sha1": "19f85c1f9903a3971ae59f34512bc58802f9bf64",
       "size": 748034
     },
     {
       "name": "furniture-6.3.1-1.12.2.jar",
-      "downloadURL": "https://dogelauncher.great-site.net/mods/furniture-6.3.1-1.12.2.jar",
+      "downloadURL": "https://zimothali.github.io/mods/furniture-6.3.1-1.12.2.jar",
       "sha1": "05fcc338d115ba09266ab2da39027ae319efba18",
       "size": 2435626
     },
     {
       "name": "iceandfire-1.9.1-1.12.2.jar",
-      "downloadURL": "https://dogelauncher.great-site.net/mods/iceandfire-1.9.1-1.12.2.jar",
+      "downloadURL": "https://zimothali.github.io/mods/iceandfire-1.9.1-1.12.2.jar",
       "sha1": "4bf427fe3dcf8b7c30ce64ca1b61550037ff60ec",
       "size": 20467820
     },
     {
       "name": "ironchest-1.12.2-7.0.72.847.jar",
-      "downloadURL": "https://dogelauncher.great-site.net/mods/ironchest-1.12.2-7.0.72.847.jar",
+      "downloadURL": "https://zimothali.github.io/mods/ironchest-1.12.2-7.0.72.847.jar",
       "sha1": "adc4c785a484c5d5a4ab9a29e1937faeed4312dd",
       "size": 956692
     },
     {
       "name": "jei_1.12.2-4.16.1.301.jar",
-      "downloadURL": "https://dogelauncher.great-site.net/mods/jei_1.12.2-4.16.1.301.jar",
+      "downloadURL": "https://zimothali.github.io/mods/jei_1.12.2-4.16.1.301.jar",
       "sha1": "3045e8440ea44071d8b83c4e7b3c190348fdc527",
       "size": 653211
     },
     {
       "name": "lesslag-1.0-1.12.2.jar",
-      "downloadURL": "https://dogelauncher.great-site.net/mods/lesslag-1.0-1.12.2.jar",
+      "downloadURL": "https://zimothali.github.io/mods/lesslag-1.0-1.12.2.jar",
       "sha1": "24cdec53d82b5afdb78f1ca6db8e2341830caeff",
       "size": 4779862
     },
     {
       "name": "LibraryEx-1.12.2-1.2.1.jar",
-      "downloadURL": "https://dogelauncher.great-site.net/mods/LibraryEx-1.12.2-1.2.1.jar",
+      "downloadURL": "https://zimothali.github.io/mods/LibraryEx-1.12.2-1.2.1.jar",
       "sha1": "d9a93fe25ce326393496fadf618c35b1f6bb96ca",
       "size": 464048
     },
     {
       "name": "llibrary-1.7.20-1.12.2.jar",
-      "downloadURL": "https://dogelauncher.great-site.net/mods/llibrary-1.7.20-1.12.2.jar",
+      "downloadURL": "https://zimothali.github.io/mods/llibrary-1.7.20-1.12.2.jar",
       "sha1": "fba97f9dbe750f17904c00db8ff58291595106b8",
       "size": 884550
     },
     {
       "name": "mowziesmobs-1.5.8.jar",
-      "downloadURL": "https://dogelauncher.great-site.net/mods/mowziesmobs-1.5.8.jar",
+      "downloadURL": "https://zimothali.github.io/mods/mowziesmobs-1.5.8.jar",
       "sha1": "67e9952fa9aff4441959a4ceaa0e1b67dd7e5c00",
       "size": 5185246
     },
     {
       "name": "NetherEx-1.12.2-2.2.3.jar",
-      "downloadURL": "https://dogelauncher.great-site.net/mods/NetherEx-1.12.2-2.2.3.jar",
+      "downloadURL": "https://zimothali.github.io/mods/NetherEx-1.12.2-2.2.3.jar",
       "sha1": "ac906e1209cda19820ea68d662969c3796b4c40d",
       "size": 2651172
     },
     {
       "name": "OptiFine_1.12.2_HD_U_F5.jar",
-      "downloadURL": "https://dogelauncher.great-site.net/mods/OptiFine_1.12.2_HD_U_F5.jar",
+      "downloadURL": "https://zimothali.github.io/mods/OptiFine_1.12.2_HD_U_F5.jar",
       "sha1": "84ada0f48bcfb16c37c49283627597bb74d935f6",
       "size": 2598821
     },
     {
       "name": "Pam\u0027s+HarvestCraft+1.12.2zg.jar",
-      "downloadURL": "https://dogelauncher.great-site.net/mods/Pam\u0027s+HarvestCraft+1.12.2zg.jar",
+      "downloadURL": "https://zimothali.github.io/mods/Pam\u0027s+HarvestCraft+1.12.2zg.jar",
       "sha1": "a064b434253305424755943dd66f389855ade953",
       "size": 4912890
     },
     {
       "name": "tektopia-1.1.0.jar",
-      "downloadURL": "https://dogelauncher.great-site.net/mods/tektopia-1.1.0.jar",
+      "downloadURL": "https://zimothali.github.io/mods/tektopia-1.1.0.jar",
       "sha1": "ee19bfe3faf242ddaeb6f0e31a299230d04e2d8c",
       "size": 13648391
     },
     {
       "name": "torchmaster_1.12.2-1.8.4.84.jar",
-      "downloadURL": "https://dogelauncher.great-site.net/mods/torchmaster_1.12.2-1.8.4.84.jar",
+      "downloadURL": "https://zimothali.github.io/mods/torchmaster_1.12.2-1.8.4.84.jar",
       "sha1": "6a9f4051d05a2cb1528262955097a9fd7dca5d13",
       "size": 168301
     },
     {
-      "name": "twilightforest-1.12.2-3.11.1021-universal.jar",
-      "downloadURL": "https://dogelauncher.great-site.net/mods/twilightforest-1.12.2-3.11.1021-universal.jar",
-      "sha1": "a4c2d01f98350fe41374666db8e1419f770a1609",
-      "size": 28721862
-    },
-    {
       "name": "Voice+Chat+Reloaded-1.2.5.jar",
-      "downloadURL": "https://dogelauncher.great-site.net/mods/Voice+Chat+Reloaded-1.2.5.jar",
+      "downloadURL": "https://zimothali.github.io/mods/Voice+Chat+Reloaded-1.2.5.jar",
       "sha1": "b58189e1030ab7231e0984988a552f25a2280dc0",
       "size": 423682
     },
     {
       "name": "Waystones_1.12.2-4.1.0.jar",
-      "downloadURL": "https://dogelauncher.great-site.net/mods/Waystones_1.12.2-4.1.0.jar",
+      "downloadURL": "https://zimothali.github.io/mods/Waystones_1.12.2-4.1.0.jar",
       "sha1": "877a5cd3ed8e3f29e900b74c8c5400ee6e43c3bf",
       "size": 178994
     },
     {
       "name": "[1.12.2]+SecurityCraft+v1.8.20.1.jar",
-      "downloadURL": "https://dogelauncher.great-site.net/mods/[1.12.2]+SecurityCraft+v1.8.20.1.jar",
+      "downloadURL": "zimothali.github.io/mods/[1.12.2]+SecurityCraft+v1.8.20.1.jar",
       "sha1": "812ebc4da906495ea2b590b6e0d3d526819eb3b0",
       "size": 1737947
     }
